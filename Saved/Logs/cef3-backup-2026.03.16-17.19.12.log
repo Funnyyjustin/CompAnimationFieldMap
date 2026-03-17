@@ -1,0 +1,10 @@
+[36868:3716:0316/162812.885:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36868:2284:0316/162813.009:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[36868:3716:0316/162813.026:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4164:20120:0316/162818.823:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9833B79C709F83CF776EA05D0E17F9DE will be ignored
+[46756:50048:0316/163405.026:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-2F658668E4AA711802F553A187DB936D will be ignored
+[8136:6352:0316/164905.062:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 10-DBA60AD95AC7D10CAF7D36E61E67C865 will be ignored
+[36868:3716:0316/165017.698:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[36868:3716:0316/165017.698:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[51324:53748:0316/170026.236:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 12-CB03E942B4C768F1D70507FD0C3E40EF will be ignored
+[36868:3716:0316/181912.083:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
