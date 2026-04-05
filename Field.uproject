@@ -18,6 +18,35 @@
 		{
 			"Name": "ProceduralVegetationEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "MeshPainting",
+			"Enabled": false
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": false
+		},
+		{
+			"Name": "Fab",
+			"Enabled": false
+		},
+		{
+			"Name": "MetaHumanSDK",
+			"Enabled": false
+		},
+		{
+			"Name": "GLTFExporter",
+			"Enabled": false
+		},
+		{
+			"Name": "InterchangeOpenUSD",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
 		}
 	]
 }
