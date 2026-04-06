@@ -28,10 +28,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Fab",
-			"Enabled": false
-		},
-		{
 			"Name": "MetaHumanSDK",
 			"Enabled": false
 		},
